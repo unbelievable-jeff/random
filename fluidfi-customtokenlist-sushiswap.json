@@ -1,0 +1,25 @@
+{
+  "name": "SushiSwap Menu",
+  "timestamp": "2021-03-07T22:56:58.386Z",
+  "version": {
+    "major": 3,
+    "minor": 2,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
+  "keywords": [
+    "sushiswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "address": "0x876ec6be52486eeec06bc06434f3e629d695c6ba",
+      "chainId": 1,
+      "name": "FluidFi",
+      "symbol": "FLUID",
+      "decimals": 18,
+      "logoURI": "https://fluidfi.ch/wp-content/themes/fluidfi/assets/images/ff-logo.svg"
+    }
+  ]
+}
